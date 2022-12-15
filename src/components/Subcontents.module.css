@@ -1,0 +1,8 @@
+.content {
+    padding: 10px;
+    background-color: #FFD966;
+    margin-bottom: 0.5rem;
+    height: 300px;
+    width: 150px;
+    flex: 1; 
+}

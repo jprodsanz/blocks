@@ -1,0 +1,11 @@
+.main {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-evenly;
+    height: 500px;
+    width: 1000px;
+    flex: 5;
+    margin-top: 0.5rem;
+    padding: 1rem;
+    background-color: #E06666;
+}
